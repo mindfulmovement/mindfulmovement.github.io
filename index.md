@@ -5,9 +5,7 @@
 
 # Hi, I'm Fabian
 
-I'm glad you're here. Hello.
-
-Well, this just got a lot better.
+I'm glad you're here. Hello. Just updating this from within my main folder.
 
 [Placeholder: one or two sentences on who you are and what you do. For example, your approach to movement and coaching, and who you work with.]
 
