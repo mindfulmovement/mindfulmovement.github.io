@@ -7,6 +7,8 @@
 
 I'm glad you're here. Hello.
 
+Well, this just got a lot better.
+
 [Placeholder: one or two sentences on who you are and what you do. For example, your approach to movement and coaching, and who you work with.]
 
 [Placeholder: a second paragraph with a bit more depth. Your background, how you came to this work, what a session with you looks like.]
