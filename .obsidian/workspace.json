@@ -48,23 +48,9 @@
               "icon": "lucide-file",
               "title": "2026-10-30-a-first-post"
             }
-          },
-          {
-            "id": "a15f5790910320b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2026-10-30-another-post.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-10-30-another-post"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -142,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2026-10-30-another-post.md",
+                "file": "_posts/2026-10-30-a-first-post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2026-10-30-another-post.md",
+                "file": "_posts/2026-10-30-a-first-post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -204,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2026-10-30-another-post.md",
+                "file": "_posts/2026-10-30-a-first-post.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -232,10 +218,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a15f5790910320b5",
+  "active": "af29b1de0d7f702b",
   "lastOpenFiles": [
-    "_posts/2026-10-30-a-first-post.md",
     "2026-10-30-another-post.md",
+    "_posts/2026-10-30-a-first-post.md",
     "_templates/New post.md",
     "New post.md",
     "Untitled",
