@@ -1,0 +1,28 @@
+title: Mindful Movement
+author: Fabian Gunzinger
+description: Personal training and health coaching.
+timezone: Europe/Berlin
+
+url: "https://mindfulmovement.github.io"
+baseurl: ""
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+permalink: /blog/:title/
+
+exclude:
+  - README.md
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
