@@ -7,7 +7,9 @@
 
 I think of strength training as meditation in motion, under load.
 
-I believe that movement and exploring and mastering new challenges is something we humans inherently enjoy – just observe young children as then start to crawl, walk, run, climb, hop, jump, balance, and dance. As adults, we tend to move less and movement becomes less pleasant. We are told that this is because we are inherently lazy, advised to fight back with self-discipline, provided with regimes, routines, life hacks, and habits, and fed with images and stories to keep us going. 
+I believe that movement and exploring and mastering new challenges is something we humans inherently enjoy – just observe young children.
+
+When we move less, movement becomes less pleasant. We are told that this is because we are inherently lazy, advised to fight back with self-discipline, provided with regimes, routines, life hacks, and habits, and fed with images and stories to keep us going. 
 
 The result: we lose touch with the inner child who moves because it feels good and who pushes the boundaries or rests based on what is needed in the moment. Movement is about being healthy, in shape, looking good, and it's a struggle – either because keeping it up is stressful or because not keeping it up is demoralising.
 
