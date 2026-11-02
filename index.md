@@ -15,7 +15,7 @@ The result: we lose touch with the inner child who moves because it feels good a
 
 I want to help you rediscover your joy for movement. 
 
-I draw on two and a half decades of experience with strength training – as a competitive athlete, an ambitious student, a busy professional, and a dad –
+I draw on two and a half decades of experience with strength training – as a competitive athlete, an hambitious student, a busy professional, and a dad –
 
 My foundation is 
 
