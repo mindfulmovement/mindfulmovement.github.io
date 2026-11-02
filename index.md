@@ -19,8 +19,6 @@ I draw on two and a half decades of experience with strength training – as a c
 
 My foundation is 
 
-
-
 Our conventional view of human nature tells us that this is because we are inherently lazy, experts advise us to fight back with self-discipline, and an infinite number of well-meaning professionals as well as lots of charlatans provide us with regimes, routines, life hacks, and habits to help us with the fight, as well as with the imagery and motivational speeches to help us follow through.
 
 [Placeholder: one or two sentences on who you are and what you do. For example, your approach to movement and coaching, and who you work with.]
